@@ -1,0 +1,3 @@
+﻿Age group,Vaccination status,Person-years,Count of deaths involving COVID-19,Count of deaths non-COVID-19 deaths,Count of all cause deaths,ACM death rate,Non-COVID ACM rate,Covid-19 death rate
+15-19,Vaccinated,20812,0,0,0,15.76231825,15.2952866,0.467031652
+15-19,Unvaccinated,1781166,22,206,228,12.80060365,11.56545768,1.235145966
